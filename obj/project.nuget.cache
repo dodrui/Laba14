@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYLb3H6tMcsE0dnJg6xBF5Qh+4anPRB0wmFMD4KcGDpv07HvIKjzXvVbS3+juEyQW9ViRudr+qDwSq4veA1DZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prost\\source\\repos\\DELETE\\DELETE\\DELETE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prost\\.nuget\\packages\\mstest.testframework\\3.4.0\\mstest.testframework.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
